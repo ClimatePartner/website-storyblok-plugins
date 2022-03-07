@@ -1,23 +1,12 @@
 {
-  "name": "storyblok-fieldtype",
-  "description": "A Storyblok Field-Type Plugin Project",
+  "name": "multifield-list",
+  "description": "A multifiled list plugin Field-Type Plugin for Storyblok",
   "author": {
-    "name": "Storyblok",
-    "email": "it@storyblok.com",
-    "url": "https://www.storyblok.com/"
+    "name": "Alvaro Perez",
+    "email": "alvaro.perez@climatepartner.com",
+    "url": "https://www.climatepartner.com/"
   },
-  "contributors": [
-    {
-      "name": "Alexander Feiglstorfer",
-      "email": "af@storyblok.com",
-      "url": "https://www.storyblok.com/"
-    },
-    {
-      "name": "Dominik Angerer",
-      "email": "da@storyblok.com",
-      "url": "https://www.storyblok.com/"
-    }
-  ],
+  "contributors": [],
   "version": "2.0.0",
   "private": true,
   "scripts": {
